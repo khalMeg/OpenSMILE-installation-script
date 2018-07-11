@@ -1,0 +1,3 @@
+# OpenSMILE-installation-script
+#### From Wikipedia, the free encyclopedia
+>openSMILE is an open-source software for automatic extraction of features from audio signals and for classification of speech and music signals. "SMILE" stands for "Speech & Music Interpretation by Large-space Extraction". The software is mainly applied in the area of automatic emotion recognition and is widely used in the affective computing research community. The openSMILE project exists since 2008 and is maintained by the German company audEERING GmbH since 2013. openSMILE is provided free of charge for research purposes and personal use under an open-source license. For commercial use of the tool, the company audEERING offers custom license options.
